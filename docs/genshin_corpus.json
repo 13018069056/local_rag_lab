@@ -1,0 +1,73 @@
+{
+  "documents": [
+    {
+      "doc_id": "genshin_basics_v1",
+      "title": "原神基础说明",
+      "source": "docs/genshin_notes.txt",
+      "updated_at": "2026-05-01",
+      "expires_at": "2099-12-31",
+      "roles": ["student", "teacher"],
+      "claim_key": null,
+      "claim_value": null,
+      "content": [
+        "原神是一款开放世界冒险游戏，玩家以旅行者身份在提瓦特大陆探索不同地区。",
+        "祈愿系统可以消耗相应道具抽取角色或武器，是游戏中获取新角色和装备的重要方式之一。",
+        "原石是一种重要资源，可以用于兑换纠缠之缘或相遇之缘，也常用于参与祈愿。"
+      ]
+    },
+    {
+      "doc_id": "genshin_build_v1",
+      "title": "角色养成与战斗资料",
+      "source": "docs/genshin_build.md",
+      "updated_at": "2026-05-02",
+      "expires_at": "2099-12-31",
+      "roles": ["student", "teacher"],
+      "claim_key": null,
+      "claim_value": null,
+      "content": [
+        "角色养成包括等级提升、武器强化、天赋升级和命之座解锁等内容。",
+        "圣遗物可以提供主属性和副属性，用于提升角色的攻击、防御、生命或元素相关能力。",
+        "元素反应由不同元素相互作用触发，例如蒸发、融化、超载、感电和扩散等。"
+      ]
+    },
+    {
+      "doc_id": "resin_advice_2026",
+      "title": "原粹树脂使用建议（当前教学模拟版）",
+      "source": "docs/resin_advice_2026.md",
+      "updated_at": "2026-05-03",
+      "expires_at": "2099-12-31",
+      "roles": ["student", "teacher"],
+      "claim_key": "resin_priority",
+      "claim_value": "秘境优先",
+      "content": [
+        "当前教学模拟资料建议：原粹树脂优先用于秘境奖励，以便稳定获取角色养成材料和圣遗物。"
+      ]
+    },
+    {
+      "doc_id": "resin_advice_2024_old",
+      "title": "原粹树脂使用建议（旧版教学模拟资料）",
+      "source": "docs/resin_advice_2024.md",
+      "updated_at": "2024-05-01",
+      "expires_at": "2024-12-31",
+      "roles": ["student", "teacher"],
+      "claim_key": "resin_priority",
+      "claim_value": "地脉优先",
+      "content": [
+        "旧版教学模拟资料建议：原粹树脂优先用于地脉奖励，以便快速积累角色经验书和摩拉。"
+      ]
+    },
+    {
+      "doc_id": "teacher_private_strategy_v1",
+      "title": "教师用课堂提示",
+      "source": "docs/teacher_private_strategy.md",
+      "updated_at": "2026-05-04",
+      "expires_at": "2099-12-31",
+      "roles": ["teacher"],
+      "claim_key": null,
+      "claim_value": null,
+      "content": [
+        "教师提示：讲解角色养成时，可提醒同学先围绕一个主要输出角色配置武器、天赋和圣遗物。"
+      ]
+    }
+  ]
+}
